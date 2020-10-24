@@ -1,3 +1,5 @@
+> This is very, very out of date and shouldn't be used by anyone.
+
 # Gatsby Starter
 
 > A starting point for Gatsby sites.
